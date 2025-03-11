@@ -137,8 +137,8 @@ export function Hero() {
                       <Shield size={20} className="text-primary" />
                     </div>
                     <div>
-                      <h3 className="font-medium">Lawyer Matchmaking</h3>
-                      <p className="text-sm text-muted-foreground">Find the right legal expert</p>
+                      <h3 className="font-medium">Legal Expert Network</h3>
+                      <p className="text-sm text-muted-foreground">Connect with specialized attorneys</p>
                     </div>
                   </div>
                   <ArrowRight size={16} className="text-primary" />
