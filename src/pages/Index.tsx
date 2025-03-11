@@ -28,7 +28,7 @@ const Index = () => {
     });
 
     // Set page title
-    document.title = "Legalex - Simplified Legal Solutions";
+    document.title = "LawXygen - Legal, Tax and Compliance Services";
   }, []);
 
   return (

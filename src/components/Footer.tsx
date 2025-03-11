@@ -10,7 +10,7 @@ export function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-6">
               <div className="w-8 h-8 rounded-full bg-primary"></div>
-              <span className="text-xl font-display font-bold">Legalex</span>
+              <span className="text-xl font-display font-bold">LawXygen</span>
             </div>
             
             <p className="text-muted-foreground mb-6">
@@ -105,8 +105,8 @@ export function Footer() {
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="mr-2 text-primary" />
-                <a href="mailto:info@legalex.com" className="text-muted-foreground hover:text-primary transition-colors duration-200">
-                  info@legalex.com
+                <a href="mailto:info@lawxygen.com" className="text-muted-foreground hover:text-primary transition-colors duration-200">
+                  info@lawxygen.com
                 </a>
               </li>
             </ul>
@@ -117,7 +117,7 @@ export function Footer() {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Legalex. All rights reserved.
+            &copy; {new Date().getFullYear()} LawXygen. All rights reserved.
           </p>
           
           <div className="flex space-x-6">
