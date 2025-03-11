@@ -48,7 +48,7 @@ export function Hero() {
               className="text-balance"
               data-animate
             >
-              <span className="text-gradient">Simplified</span> Legal Solutions for Your Business
+              <span className="text-gradient">Your Partner</span> in Legal, Tax & Compliance Excellence
             </h1>
             
             <p 
