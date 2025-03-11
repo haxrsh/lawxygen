@@ -41,7 +41,7 @@ export function Hero() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <div className="inline-flex items-center px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium" data-animate>
-              Professional Legal Services
+              Modern Legal Services Platform
             </div>
             
             <h1 
@@ -55,7 +55,7 @@ export function Hero() {
               className="text-lg md:text-xl text-foreground/80 max-w-[600px] leading-relaxed"
               data-animate
             >
-              Navigate the complexities of business and legal processes with our expert guidance. We're here to help you succeed with confidence.
+              Access legal services as easily as ordering food online. Whether you're a startup founder or seeking legal representation, we connect you with the right legal solutions and experts.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4" data-animate>
@@ -63,7 +63,7 @@ export function Hero() {
                 className="bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300 rounded-md group"
                 size="lg"
               >
-                Book a Consultation
+                Get Started Now
                 <ArrowRight size={16} className="ml-2 group-hover:translate-x-1 transition-transform" />
               </Button>
               <Button 
@@ -71,7 +71,7 @@ export function Hero() {
                 size="lg"
                 className="border-primary/20 text-foreground hover:bg-primary/5"
               >
-                Explore Services
+                Find a Lawyer
               </Button>
             </div>
             
@@ -81,15 +81,15 @@ export function Hero() {
             >
               <div className="flex items-center">
                 <Shield size={16} className="mr-2 text-primary" />
-                <span>Trusted by 10,000+ businesses</span>
+                <span>AI-Powered Solutions</span>
               </div>
               <div className="flex items-center">
                 <Scale size={16} className="mr-2 text-primary" />
-                <span>Expert legal advisors</span>
+                <span>Transparent Pricing</span>
               </div>
               <div className="flex items-center">
                 <FileText size={16} className="mr-2 text-primary" />
-                <span>100% secure & confidential</span>
+                <span>Expert Legal Support</span>
               </div>
             </div>
           </div>
@@ -107,8 +107,8 @@ export function Hero() {
                       <Scale size={20} className="text-white" />
                     </div>
                     <div>
-                      <h3 className="font-medium">Business Registration</h3>
-                      <p className="text-sm text-muted-foreground">Quick & hassle-free process</p>
+                      <h3 className="font-medium">Startup Legal Solutions</h3>
+                      <p className="text-sm text-muted-foreground">Business incorporation & compliance</p>
                     </div>
                   </div>
                   <ArrowRight size={16} className="text-primary" />
@@ -122,8 +122,8 @@ export function Hero() {
                       <FileText size={20} className="text-primary" />
                     </div>
                     <div>
-                      <h3 className="font-medium">Trademark Registration</h3>
-                      <p className="text-sm text-muted-foreground">Protect your brand identity</p>
+                      <h3 className="font-medium">Contract Management</h3>
+                      <p className="text-sm text-muted-foreground">Automated drafting & review</p>
                     </div>
                   </div>
                   <ArrowRight size={16} className="text-primary" />
@@ -137,8 +137,8 @@ export function Hero() {
                       <Shield size={20} className="text-primary" />
                     </div>
                     <div>
-                      <h3 className="font-medium">Legal Consultation</h3>
-                      <p className="text-sm text-muted-foreground">Expert advice for your business</p>
+                      <h3 className="font-medium">Lawyer Matchmaking</h3>
+                      <p className="text-sm text-muted-foreground">Find the right legal expert</p>
                     </div>
                   </div>
                   <ArrowRight size={16} className="text-primary" />
